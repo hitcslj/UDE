@@ -2,7 +2,7 @@
 
 [**Paper**](https://arxiv.org/abs/2403.05056) | [**Project Page**](https://hitcslj.github.io/ssd/)
 
-Official implementation of SSD: Stealing Stable Diffusion Prior for Robust Monocular Depth Estimation
+Official implementation of UDE: Universal Depth Estimation Across Diverse Conditions
 
 [Yifan Mao](https://jluwula.github.io/), [Jian Liu](https://hitcslj.github.io/), Xianming Liu
 
